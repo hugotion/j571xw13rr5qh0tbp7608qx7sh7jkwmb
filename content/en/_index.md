@@ -1,7 +1,7 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "My Hugo CMS"
 
-description: "The last theme you'll ever need. Maybe."
+description: "Hugo is an amazing technology, and I've made a CMS for it!"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
